@@ -117,6 +117,7 @@ El número 7 NO existe en el árbol.
 
 ## 👥 Integrantes del grupo
 
-| Nombre | 
+| Nombre Estudiante | 
 |--------|
-| SANTIAGO LONDOÑO RÚA |
+| SANTIAGO LONDOÑO RÚA|
+Ingeniería de Software y Datos
